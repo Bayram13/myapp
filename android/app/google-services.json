@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252034200099",
+    "project_id": "appp-b44df",
+    "storage_bucket": "appp-b44df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252034200099:android:456d508d6fb1615076f796",
+        "android_client_info": {
+          "package_name": "byrm.xyz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEaVqDVPxZMRHWdUf2j35eHE3XgyYtgf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
